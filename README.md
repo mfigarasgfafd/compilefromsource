@@ -1,0 +1,2 @@
+# compilefromsource
+zajęcia linux
